@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+STATE MANAGEMENT <br>
+=========================== <br>
+NAMA : FRANKIE STEINLIE  <br>
+NIM : 244107027008  <br>
+KELAS : 4K  <br>
+=========================== <br>
 
-## Getting Started
+PRAKTIKUM 1 <br> 
+![image](https://github.com/user-attachments/assets/bfa11829-e74f-4532-92b8-708f3a44b775)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+PRAKTIKUM 2 <br> 
+![image](https://github.com/user-attachments/assets/1548e605-7c36-4f93-b7a4-241a65d2d6ca)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+PRAKTIKUM 3 <br> 
+![image](https://github.com/user-attachments/assets/36d6364e-a999-4086-8d13-2f5d2da22a86)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+PRAKTIKUM 4 <br> 
+![image](https://github.com/user-attachments/assets/98b389b1-2d6a-43a0-be43-a001561476e3)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+PRAKTIKUM 5 <br> 
+![image](https://github.com/user-attachments/assets/da2d4075-4043-4e65-a528-6884628b613c)
